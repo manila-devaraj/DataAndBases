@@ -1,12 +1,6 @@
 ### Takeaways
 
-Once upon a midnight dreary, while I pondered, weak and weary. Over many a
-quaint and curious volume of forgotten lore. While I nodded, nearly napping,
-suddenly there came a tapping. As of some one gently rapping, rapping at my
-chamber door. 'Tis some visiter, I muttered, tapping at my chamber door. Only
-this, and nothing more. Ah, distinctly I remember it was in the bleak December.
-And each separate dying ember wrought its ghost upon the floor. Eagerly I wished
-the morrow;—vainly I had sought to borrow. From my books surcease of
-sorrow—sorrow for the lost Lenore. For the rare and radiant maiden whom the
-angels name Lenore. Nameless here for evermore. And the silken sad uncertain
-rustling of each purple curtain Thrilled me, filled me with fantastic terrors
+- Data comes as continuous or discrete on the one hand, and categorical or ordinal on the other
+- Data may be embodied differently from its original form
+- Various kinds of data can be represented in tabular and array form
+- Databases are used to store data what cannot fit in memory.
